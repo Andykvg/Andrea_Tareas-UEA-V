@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+    background-image: url(mundo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:900px 720px;
+}
+p{
+    color:rgb(237, 158, 46);
+    font-size: 150px;
+    text-align: right;
+}
