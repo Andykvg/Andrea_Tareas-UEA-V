@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(57, 110, 101);
+}
+image{
+    width: 50%;
+}
+p{
+    color:rgb(237, 158, 46);
+    font-size: 95px;
+    text-align: center;
+}
+
+.body2{
+    background-color:rgb(114, 114, 202);
+}
