@@ -1,5 +1,5 @@
-let párr1= "aquí comienza";
-let párr2= "parrafo 2";
+let párr1= "Desde mi perspectiva, la tecnología web les ha dado a los artistas nuevas herramientas que no solo potencian la comunicabilidad de sus obras, sino también potencian la creatividad al contar con un medio que no nos limita a la realidad física. La virtualidad nos da beneficios con los que los artistas estamos obligados a experimentar. Considero que crecer profesionalmente con estas herramientas me da una capacidad mayor sobre los artistas que comienzan a adaptarse a las nuevas tecnologías web, además de darme ventajas en el mundo laboral, sabiendo manejar tecnologías que son cada vez más demandadas.";
+let párr2= "Si bien no todas las herramientas vistas en clase me servirán para todos los proyectos que haga, sobre todo porque no todas las áreas  del arte digital utilizan los mismos lenguajes de programación, las herramientas que hemos visto son un gran comienzo para ir progresando en la programación web, y con las bases ya establecidas puedo experimentar y evolucionar en mi arte.  Aun si hago proyectos complejos, las bases vistas en clase siempre se utilizarán, porque hay cosas que, aun por más sencillas que sean, se utilizan, además de que muchos atajos vistos me facilitarán distintos procesos. Sí, considero que es importante no saltarse las bases, pero es nuestra responsabilidad seguir estudiando y avanzando.";
 
 document.getElementById('párr1').innerHTML= párr1;
 
