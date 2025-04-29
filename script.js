@@ -1,1 +1,1 @@
-console.log("El arte de la comida");
+console.log("Pensamientos foráneos");

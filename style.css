@@ -1,63 +1,38 @@
-/* Cambiar el cursor a uno predefinido */
-body {
-    cursor: pointer; 
-    background-color:rgb(231, 215, 201) ;
-    margin: 2.5%;
+body{
+    background-color: rgb(15, 29, 48);
 }
-h1{
-  font-family:'Times New Roman', Times, serif;
-  font-size: 60px;
-  text-align: center;
-  color: rgb(255, 255, 255);
+#titulo{
+margin: 1%;
+padding: 0.1%;
+height: 350px;
+width:400px;
+float: inline-start;
+font-size: 40px;
+font-family:'Gill Sans';
+text-align: center;
+color:rgb(211, 206, 199);
 }
-.texto{
-  background-color: rgb(204, 88, 3);
-  margin: 2%;
-  font-size: 25px;
-  padding: 15px;
-  float: left;
-  width: 630px;
-  height: auto;
-  font-size: x-large;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  text-align: justify;
-  color: antiquewhite;
+#imagen{
+    float:unset;
+    margin: 0.5%;
+    margin-left: 2%;
 }
-.quesos{
-    cursor: url('quesito.png'), auto;
-    background-color: rgb(204, 88, 3);
-    font-size: 25px;
-    padding: 15px;
+#mochila{
+    float:inline-end;
+}
+#texto{
+    background-color: rgb(86, 118, 167);
+    margin: 23px;;
+    padding:3%;
+    height: 2%;
+    width: 32%;
     float: left;
-    width: 400px;
-    height: auto;
-    align-items: center;
+    text-align: center;
 }
-.pizza{
-  cursor: url('pizza.png'), auto;
-  background-color: rgb(255, 149, 5 );
-  font-size: 25px;
-  padding: 15px;
-  float: left;
-  width: 400px;
-  height: auto;
-  align-items: center;
-}
-.postre{
-  cursor: url('panna.png'), auto;
-  background-color: rgb(109, 55, 23 );
-  font-size: 25px;
-  padding: 15px;
-  float: left;
-  width: 547px;
-  height: auto;
-  align-items: center;
-}
-.tiktok-embed{
-  background-color: rgb(226, 150, 43);
-  font-size: 25px;
-  padding: 15px;
-  float: left;
-  width: 800px;
-  height: auto;
+#video{
+    background-color: rgb(56, 78, 114);;
+    margin-top: 2px;
+    margin-right: 2%;
+    padding: 3%;
+    float:right;
 }
